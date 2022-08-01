@@ -6,7 +6,7 @@ public class primeraParte {
 
         System.out.println( "El resultado es " +suma (a,b,c));
     }
-        public static int suma (int a,int b,int c) {
+    public static int suma (int a,int b,int c) {
         return a+b+c;
     }
 }
